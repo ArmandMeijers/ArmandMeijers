@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Armand, im a young wanna be coder .
+- 👋 Hi, I’m Armand.
 - 🌱 I’m currently learning python.
 - 📫 How to reach me: armandmeijers23@gmail.com
 
