@@ -1,0 +1,9 @@
+- 👋 Hi, I’m Armand, im a young wanna be coder .
+- 🌱 I’m currently learning python.
+- 📫 How to reach me: armandmeijers23@gmail.com
+
+
+<!---
+ArmandMeijers/ArmandMeijers is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
